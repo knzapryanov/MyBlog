@@ -1,0 +1,52 @@
+body{
+    padding: 0px 17% 20px 17%;
+}
+#login-div{
+    display: inline-block;
+}
+#registration-div{
+    display: inline-block;
+}
+.admin-options{
+    display: block;
+    margin-top: 20px;
+}
+.admin-options>a{
+    margin-left: 5px;
+}
+.post-div{
+    margin-top: 20px;
+    border: 2px solid darkcyan;
+    padding: 11px;
+    border-radius: 17px;
+    box-shadow: 5px 8px 5px;
+    background-color: ivory;
+}
+.description{
+    display: block;
+    font-weight: 800;
+}
+.comments-div{
+    margin-top: 15px;
+    border: 1px solid black;
+    padding: 7px;
+}
+.current-comment-div{
+    margin-top: 15px;
+    border: 1px solid black;
+    padding: 7px;
+    background-color: cornsilk;
+}
+.comment-form{
+    margin-top: 15px;
+    background-color: ivory;
+    border: 1px solid black;
+    padding: 7px;
+}
+.comment-form>input{
+    display: block;
+}
+.deleteCommentBUtton{
+    margin-top: 15px;
+    display: block;
+}

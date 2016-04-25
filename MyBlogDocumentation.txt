@@ -1,0 +1,10 @@
+User privileges:
+- View Posts
+- Add Comments (Ajax)
+
+Admin credentials:
+Username - admin, Password - admin
+Admin privileges:
+- Add / Edit Posts
+- Delete Posts (Ajax)
+- Add / Delete Comments (Ajax)
