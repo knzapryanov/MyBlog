@@ -1,10 +1,5 @@
 <?php
 session_start();
-
-  //phpinfo();
-
-//mysql_connect("localhost", "root", "");
-//mysql_select_db("myblog");
 $con = mysqli_connect("localhost", "root", "", "");
 if(!$con){
     die("Connection failed: " . mysqli_connect_error());
